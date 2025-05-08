@@ -1,0 +1,18 @@
+PokeAPI
+
+pip install requests        # Para pedir informacion a las APIs
+pip install pillow          # Para mostrar imagenes de URLs
+pip install matplotlib      # Permite hacer gráficas
+
+
+
+Motor Grafico 3D
+
+pip install trimesh pyrender Pillow numpy           # Carga entorno 3D en python
+pip install PyOpenGL PyOpenGL_accelerate Pillow     # Renderizado de entornos 3D
+pip install pyopengltk                              # Comunicacion Opengl con Tkinter
+pip install pygame PyOpenGL                         # Motor 3D para python
+
+Desarrollo Celular
+
+pip install kivy
